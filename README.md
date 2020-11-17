@@ -1,3 +1,3 @@
-# Jon's (not so) first repository
+# Eugenio's first directory
 
-Everything is awesome!
+So happy this works
